@@ -1,0 +1,55 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+
+    <!-- Background Colors -->
+    <SolidColorBrush x:Key="PrimaryBackgroundColor" Color="#C0C9EA"/>
+    <SolidColorBrush x:Key="SecundaryBackgroundColor" Color="#EDF4FF"/>
+    <SolidColorBrush x:Key="TertiaryBackgroundColor" Color="#FFFFFF"/>
+
+    <!-- System Colors -->
+    <!-- Typograhy Colors -->
+    <SolidColorBrush x:Key="PrimaryTextColor" Color="#0E1A32"/>
+    <SolidColorBrush x:Key="SecundaryTextColor" Color="#102341"/>
+    <SolidColorBrush x:Key="TertiaryTextColor" Color="#1C3254"/>
+
+    <!-- Blue Colors-->
+    <SolidColorBrush x:Key="PrimaryBlueColor" Color="#004FC4"/>
+    <SolidColorBrush x:Key="SecundaryBlueColor" Color="#0063F7"/>
+    <SolidColorBrush x:Key="TertiaryBlueColor" Color="#5B8DEF"/>
+
+    <!-- Red Colors-->
+    <SolidColorBrush x:Key="PrimaryRedColor" Color="#E63535"/>
+    <SolidColorBrush x:Key="SecundaryRedColor" Color="#FF3B3B"/>
+    <SolidColorBrush x:Key="TertiaryRedColor" Color="#FF5C5C"/>
+
+    <!-- Green Colors-->
+    <SolidColorBrush x:Key="PrimaryGreenColor" Color="#05A660"/>
+    <SolidColorBrush x:Key="SecundaryGreenColor" Color="#06C270"/>
+    <SolidColorBrush x:Key="TertiaryGreenColor" Color="#39D98A"/>
+
+    <!-- Orange Colors-->
+    <SolidColorBrush x:Key="PrimaryOrangeColor" Color="#E67A00"/>
+    <SolidColorBrush x:Key="SecundaryOrangeColor" Color="#FF8800"/>
+    <SolidColorBrush x:Key="TertiaryOrangeColor" Color="#FDAC42"/>
+
+    <!-- Yellow Colors-->
+    <SolidColorBrush x:Key="PrimaryYellowColor" Color="#E6B800"/>
+    <SolidColorBrush x:Key="SecundaryYellowColor" Color="#FFCC00"/>
+    <SolidColorBrush x:Key="TertiaryYellowColor" Color="#FDDD48"/>
+
+    <!-- Teal Colors-->
+    <SolidColorBrush x:Key="PrimaryTealColor" Color="#00B7C4"/>
+    <SolidColorBrush x:Key="SecundaryTealColor" Color="#00CFDE"/>
+    <SolidColorBrush x:Key="TertiaryTealColor" Color="#73DFE7"/>
+    
+    <!-- White -->
+    <SolidColorBrush x:Key="PrimaryWhiteColor" Color="#C0C9EA"/>
+    <SolidColorBrush x:Key="SecundaryWhiteColor" Color="#EDF4FF"/>
+    <SolidColorBrush x:Key="TertiaryWhiteColor" Color="#FFFFFF"/>
+
+    <!-- Black -->
+    <SolidColorBrush x:Key="PrimaryBlackColor" Color="#0E1A32"/>
+    <SolidColorBrush x:Key="SecundaryBlackColor" Color="#102341"/>
+    <SolidColorBrush x:Key="TertiaryBlackColor" Color="#1C3254"/>
+    
+</ResourceDictionary>
